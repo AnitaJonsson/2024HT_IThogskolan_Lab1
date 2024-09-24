@@ -1,2 +1,2 @@
-# HT2024_IThogskolan_Lab1
+# 2024HT_IThogskolan_Lab1
 Laboration 1
